@@ -1,0 +1,1 @@
+Jese ham 'PureComponent'  "class-component" me use krte hai vese hi "useMemo Hooks" ham 'functional component' ke under use krte hai 
